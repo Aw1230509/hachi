@@ -659,9 +659,9 @@ section a {
   background-color: #f75853;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1100px) {
   body{
-    width: 750px;
+    width: 100%;
   }
   main{
     width: 500px;
